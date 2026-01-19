@@ -126,39 +126,39 @@ Focus Areas: BIM Automation, Web Development, Cloud Applications
 
 ### BIM Automation Tools
 
-| Repository | Description | Language | Stars |
-|------------|-------------|----------|-------|
-| [NavisworksUpdater](https://github.com/Deadsherif/NavisworksUpdater) | Revit add-in that refreshes NWF files and exports NWD to target path | C# | - |
-| [SplitWalls](https://github.com/Deadsherif/SplitWalls) | Intelligent wall splitting and manipulation tool for Revit | C# | - |
-| [PlaceSignageFamily](https://github.com/Deadsherif/PlaceSignageFamily) | Automated signage family placement in BIM models | C# | - |
-| [DuplicateViews](https://github.com/Deadsherif/DuplicateViews) | Revit add-in for duplicating and managing views | C# | - |
-| [PointCloud](https://github.com/Deadsherif/PointCloud) | Point cloud processing and integration for Revit | C# | - |
-| [MEP_Supports_distributor](https://github.com/Deadsherif/MEP_Supports_distributor) | MEP support distribution automation tool | C# | - |
+| Repository | Description | Language |
+|------------|-------------|----------|
+| [NavisworksUpdater](https://github.com/Deadsherif/NavisworksUpdater) | Revit add-in that refreshes NWF files and exports NWD to target path | C# |
+| [SplitWalls](https://github.com/Deadsherif/SplitWalls) | Intelligent wall splitting and manipulation tool for Revit | C# |
+| [PlaceSignageFamily](https://github.com/Deadsherif/PlaceSignageFamily) | Automated signage family placement in BIM models | C# |
+| [DuplicateViews](https://github.com/Deadsherif/DuplicateViews) | Revit add-in for duplicating and managing views | C# |
+| [PointCloud](https://github.com/Deadsherif/PointCloud) | Point cloud processing and integration for Revit | C# |
+| [MEP_Supports_distributor](https://github.com/Deadsherif/MEP_Supports_distributor) | MEP support distribution automation tool | C# |
 
 ### Web Applications
 
-| Repository | Description | Language | Stars |
-|------------|-------------|----------|-------|
-| [Deadsherif](https://github.com/Deadsherif/Deadsherif) | GitHub profile configuration and README | N/A | ⭐ 1 |
-| [Time-Sheet](https://github.com/Deadsherif/Time-Sheet) | Full-stack time tracking application | TypeScript | - |
+| Repository | Description | Language |
+|------------|-------------|----------|
+| [Deadsherif](https://github.com/Deadsherif/Deadsherif) | GitHub profile configuration and README | N/A |
+| [Time-Sheet](https://github.com/Deadsherif/Time-Sheet) | Full-stack time tracking application | TypeScript |
 
 ### Backend & Services
 
-| Repository | Description | Language | Stars |
-|------------|-------------|----------|-------|
-| [AuthService](https://github.com/Deadsherif/AuthService) | Authentication service for secure API access | C# | - |
-| [AuthService8](https://github.com/Deadsherif/AuthService8) | Authentication service variant for .NET 8 | C# | - |
-| [AuthService481](https://github.com/Deadsherif/AuthService481) | Authentication service implementation | C# | - |
+| Repository | Description | Language |
+|------------|-------------|----------|
+| [AuthService](https://github.com/Deadsherif/AuthService) | Authentication service for secure API access | C# |
+| [AuthService8](https://github.com/Deadsherif/AuthService8) | Authentication service variant for .NET 8 | C# |
+| [AuthService481](https://github.com/Deadsherif/AuthService481) | Authentication service implementation | C# |
 
 ### Other Projects
 
-| Repository | Description | Language | Stars |
-|------------|-------------|----------|-------|
-| [firstoption](https://github.com/Deadsherif/firstoption) | BIM automation tool for FirstOption company | C# | - |
-| [IdStyle](https://github.com/Deadsherif/IdStyle) | ID styling and formatting utility | C# | - |
-| [ShopDrawing](https://github.com/Deadsherif/ShopDrawing) | Shop drawing generation and management | C# | - |
-| [chatbot](https://github.com/Deadsherif/chatbot) | AI chatbot implementation | Python | - |
-| [Git](https://github.com/Deadsherif/Git) | Git testing and learning repository | N/A | - |
+| Repository | Description | Language |
+|------------|-------------|----------|
+| [firstoption](https://github.com/Deadsherif/firstoption) | BIM automation tool for FirstOption company | C# |
+| [IdStyle](https://github.com/Deadsherif/IdStyle) | ID styling and formatting utility | C# |
+| [ShopDrawing](https://github.com/Deadsherif/ShopDrawing) | Shop drawing generation and management | C# |
+| [chatbot](https://github.com/Deadsherif/chatbot) | AI chatbot implementation | Python |
+| [Git](https://github.com/Deadsherif/Git) | Git testing and learning repository | N/A |
 
 </details>
 
