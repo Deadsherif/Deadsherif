@@ -4,7 +4,7 @@
 
 **Transforming BIM Models into Intelligent Automation**
 
-[Portfolio](https://ahmedfolio-cnqhgaxa.manus.space/) • [Email](mailto:AhmedSherif9220@gmail.com) • [LinkedIn](#) • [Phone](#)
+[Portfolio](https://ahmedfolio-cnqhgaxa.manus.space/) • [Email](mailto:AhmedSherif9220@gmail.com) • [LinkedIn](https://www.linkedin.com/in/ahmedsherifbim/) • [Phone](+201090343878)
 
 </div>
 
